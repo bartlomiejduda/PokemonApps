@@ -1,0 +1,1 @@
+nameko run nameko_main
